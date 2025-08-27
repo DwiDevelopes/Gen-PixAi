@@ -2,7 +2,7 @@
 
 `pip install pixai`
 
-> **PixAI** adalah paket Python + CLI/GUI untuk **membuat, mengelola lisensi, dan menyiapkan aset pixel art** yang dihasilkan oleh AI. Dokumen ini menggantikan seluruh konten sebelumnya yang bertema **HTML to APK/Cordova**. Semua rujukan ke *HTML-to-EXE/APK* telah **dihapus**, dan diganti dengan fokus penuh pada **pixel art** serta **lisensi karya AI** bernama **PixAI License**.
+> **PixAI** adalah paket Python + CLI/GUI untuk **membuat, mengelola lisensi, dan menyiapkan aset pixel art** yang dihasilkan oleh AI serta **lisensi karya AI** bernama **PixAI License**.
 
 ---
 

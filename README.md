@@ -1,6 +1,7 @@
 # 🧩 **PixAI — Pixel Art License & Generator**
 
 `pip install pixai`
+`pixai`
 
 > **PixAI** adalah paket Python + CLI/GUI untuk **membuat, mengelola lisensi, dan menyiapkan aset pixel art** yang dihasilkan oleh AI serta **lisensi karya AI** bernama **PixAI License**.
 
@@ -141,31 +142,19 @@ python --version
 pip --version
 ```
 
-### 2) (Opsional) Setup GPU
-
-* **NVIDIA**: instal CUDA Toolkit yang kompatibel dengan PyTorch.
-* **Apple Silicon**: gunakan *Metal backend* yang disediakan.
-* **AMD/ROCm**: instal ROCm sesuai dokumentasi PyTorch.
-
-### 3) Instal PixAI
+### 2) Instal PixAI
 
 ```bash
 pip install pixai
 ```
 
-### 4) Unduh Model (otomatis saat pertama kali berjalan)
+### 3) Running Apps
 
 ```bash
-pixai doctor   # cek environment & unduhan model
+pixai
 ```
 
-> Perintah ini memverifikasi dependency, mengatur cache model, dan mengetes backend (CPU/GPU).
-
-### 5) Uji Coba Cepat
-
-```bash
-pixai generate --prompt "slime blue rpg, cute, idle" --size 32 --palette nes --colors 16 --out slime.png
-```
+> Perintah ini untuk menjalankan aplikasi kalian bisa mencobanya
 
 ---
 
@@ -269,7 +258,7 @@ pixai license init --type commercial --owner "Studio Contoh" --project "RPG-Alph
 
 ## 📄 **Template LICENSE.txt**
 
-Salin, lalu sesuaikan variabel di `<ANGLED_BRACKETS>`.
+Salin, lalu sesuaikan variabel di `pixai`.
 
 
 PixAI License v1.0
@@ -277,8 +266,6 @@ PixAI License v1.0
 Project: PixAi
 Owner: Dwi Bakti N Dev
 Author/Tooling: PixAI (AI-generated)
-License Type: <PERSONAL|COMMERCIAL|EXCLUSIVE>
-Asset Hashes: <LIST_OF_HASHES_OR_MANIFEST>
 Date: 27-08-2025
 
 1. Grant of Rights
@@ -345,7 +332,7 @@ Date: 27-08-2025
 
 ## 🗒 **Catatan Rilis & Perubahan**
 
-* **v1.0**: Rilis awal PixAI. Migrasi penuh dari konten **HTML→APK/Cordova** ke **Pixel Art & Lisensi AI**.
+* **v1.0**: Rilis awal PixAI yang sangat menakjubkan yang membungkam programing
 
 > **Ringkasan Perubahan Besar**: Semua instruksi Cordova/Android/Gradle dihapus. Diganti dengan panduan instalasi PixAI, algoritma generatif, pipeline pixel-art, lisensi baru, dan template `LICENSE.txt`.
 

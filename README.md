@@ -6,7 +6,7 @@
 > **PixAI** adalah paket Python + CLI/GUI untuk **membuat, mengelola lisensi, dan menyiapkan aset pixel art** yang dihasilkan oleh AI serta **lisensi karya AI** bernama **PixAI License**.
 > kalian bisa melihat tata cara install dan langsung di gunakan yang sudah launching secara gratis dan kalian bisa kunjungi pada keterangan docs Royhtml
 
-<img src "launt.gif" width ="auto" height="auto">
+<img src="launt.gif" width ="auto" height="auto">
 
 ---
 

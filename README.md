@@ -28,7 +28,8 @@
 ---
 
 ## Demo Video 
-<img src = "Roy.gif"width="auto"height="auto">
+
+<img src = "Roy.gif" width="auto" height="auto">
 
 ## 📌 **Deskripsi Proyek**
 

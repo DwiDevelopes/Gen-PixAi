@@ -36,7 +36,7 @@
 
 **PixAI** menghadirkan pipeline lengkap untuk:
 
-* **Generate** sprite, tileset, ikon, UI pixel art dari prompt teks.
+* **Generate** sprite, tileset, ikon, UI pixel art
 * **Refine** (pixelate, quantize, outline) agar mengikuti estetika pixel art klasik.
 * **License-aware**: menyertakan **Penentu Lisensi** otomatis (Personal/Commercial/Exclusive) + **template kontrak**.
 * **Audit**: menambahkan watermark halus & metadata **AI-generated**.

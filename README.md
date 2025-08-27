@@ -27,6 +27,9 @@
 
 ---
 
+## Demo Video 
+<img src = "Roy.gif"width="auto"height="auto">
+
 ## 📌 **Deskripsi Proyek**
 
 **PixAI** menghadirkan pipeline lengkap untuk:

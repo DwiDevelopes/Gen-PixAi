@@ -10,6 +10,16 @@
 
 ---
 
+## Gambar Pixai Tanpa harus punya basic gambar
+
+<img src= "pix_gambar.png" width="100%" height= "100%">
+
+## Generated Gen Pixai 
+
+<img src = "pixx.png" width = "100%" height = "100%">
+<img src = "pixi.png" wdith = "100%" height = "100%">
+<img src = "pix.png" width = "100%" height = "100%">
+    
 ## 📋 **Daftar Isi**
 
 1. [Deskripsi Proyek](#-deskripsi-proyek)
